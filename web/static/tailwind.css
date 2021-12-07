@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+    font-size: 12px;
+}
+
+a {
+    @apply hover:text-gray-700
+}
