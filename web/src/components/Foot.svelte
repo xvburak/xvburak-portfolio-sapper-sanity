@@ -1,5 +1,5 @@
 <script>
-	export let segment;
+	// export let segment;
 </script>
 
 <footer class="flex flex-wrap border-t border-gray-300 py-2">
